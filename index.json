@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "BenchMIRT",
+  "versions": [
+    {
+      "commit": "faceefdbde352d7aeba7fb563c0b48b11879b570",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:37:03.890617+00:00"
+    }
+  ]
+}
