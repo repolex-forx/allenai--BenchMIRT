@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "BenchMIRT",
+  "versions": [
+    {
+      "commit": "faceefdbde352d7aeba7fb563c0b48b11879b570",
+      "parsed_at": "2026-11-07T20:35:03.902364+00:00",
+      "filetree": "filetree/faceefdbde352d7aeba7fb563c0b48b11879b570.nq.gz",
+      "blobs": [
+        "blob/c6abc15206dccd8c41d1e09487ac36250c8cc670.nq.gz",
+        "blob/04cb984162bd11e00fb6bbff8427a92a75cd4aea.nq.gz",
+        "blob/bcda0ced761e4a33a07fbe902427dbd510cb39ec.nq.gz",
+        "blob/ab6607ca8cf66c1c0382bc8c01cc4038de8a86a1.nq.gz",
+        "blob/22f9c44dc5b30b100568525e6f93f3b4dbda00a9.nq.gz",
+        "blob/2aff232521d5a34a5e8c6a9cacde1d34b329c2c4.nq.gz",
+        "blob/2bbdb9d00a83a1ac12605aa995a038b9be436e28.nq.gz",
+        "blob/3ae66bc2b764f281dc855fc0b9025489393c09bc.nq.gz",
+        "blob/2e81daa71a09a47f63adf291d369a8107bdc6d4a.nq.gz",
+        "blob/bd43a3f765cc77c529f070dbffa57074ba185dcb.nq.gz",
+        "blob/051dadf54b80f5fd260912829910e4754f3348a8.nq.gz",
+        "blob/207dcc7d1a1200b0415a0fe8c7ce17bf60f841d8.nq.gz",
+        "blob/227aa61d4b99172fec26221431bde004bc6c2977.nq.gz",
+        "blob/e4e7e87e60cee8c50aeb62067f6a321524d17bde.nq.gz",
+        "blob/bf34e6fcc4cc1ba274e47631893cffefc44c699d.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/fa393a8b9cd0b1608d202a180afb3192e46f511a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
