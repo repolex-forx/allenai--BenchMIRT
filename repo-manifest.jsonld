@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/BenchMIRT/commit/faceefdbde352d7aeba7fb563c0b48b11879b570",
       "git:hexsha": "faceefdbde352d7aeba7fb563c0b48b11879b570",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
